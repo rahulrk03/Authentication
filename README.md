@@ -1,5 +1,5 @@
-# Authentication 
-This Project developed using Django, DRF. The Basic authentication process which generates JWT token and refresh token.
+# Basic Authentication 
+This Project is developed using Django, DRF. The Basic authentication process which generates JWT token and refresh token.
 It generates a JWT token every time a user try to login.
 
 To set up this project use: pip install -r requirements.txt
