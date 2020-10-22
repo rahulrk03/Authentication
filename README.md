@@ -1,1 +1,1 @@
-# Authentication
+# Authentication Project developed using Django, DRF. The Basic authentication process which generates JWT token and refresh token.

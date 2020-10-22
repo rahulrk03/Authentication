@@ -1,0 +1,7 @@
+Django==3.1.2
+djangorestframework==3.12.1
+Pillow==7.2.0
+djangorestframework-jwt==1.11.0
+djangorestframework-jwt-refresh-token==0.5
+six==1.15.0
+boto3==1.15.16
